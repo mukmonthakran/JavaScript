@@ -10,4 +10,4 @@ function areaSqr(w,l){
     return w*l ;
 }
 
-export { areaCircle, areaTriangle, areaSqr};
+export { areaCircle, areaTriangle, areaSqr};                                                                            

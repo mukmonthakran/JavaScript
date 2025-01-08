@@ -14,4 +14,4 @@ const add =(a,b) => a+b;
 
 const status = true;
 
-MediaSourceHandle.exports ={person,sayHello,cube,add, status}
+MediaSourceHandle.exports ={person,sayHello,cube,add}
